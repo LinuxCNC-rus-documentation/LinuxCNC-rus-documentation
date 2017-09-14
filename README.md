@@ -8,7 +8,8 @@ http://www.cnc-club.ru/forum/viewforum.php?f=15 <br>
 http://www.cnc-club.ru/wiki/index.php/Заглавная_страница#LinuxCNC <br>
 В частности имеющиеся переводы документации: <br>
 http://www.cnc-club.ru/wiki/index.php/Шаблон:Оглавление_Integrators_manual <br>
-
+Официальный форум LinuxCNC: <br>
+https://forum.linuxcnc.org/43-russian <br>
 WYSIWYG-редактор для документов в формате asciidoc <br>
 https://asciidocfx.com <br>
 Среда перевода, которую мне предложили опробовать: po4a <br>
