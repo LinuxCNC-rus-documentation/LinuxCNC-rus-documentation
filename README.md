@@ -1,7 +1,7 @@
 Корень каталога с собственно переводом: <br>
-https://github.com/LinuxCNC-rus-documentation/LinuxCNC-rus-documentation/tree/master/docs/src/russian <br>
+https://github.com/LinuxCNC-rus-documentation/LinuxCNC-rus-documentation/tree/master/Translate/docs/src/russian  <br>
 Текущая копия оригинальной документации: <br>
-http:// <br>
+https://github.com/LinuxCNC-rus-documentation/LinuxCNC-rus-documentation/tree/master/Origine_Documentation/current <br>
 Русский форум по LinuxCNC cnc-club.ru: <br>
 http://www.cnc-club.ru/forum/viewforum.php?f=15 <br>
 Русская wiki по LinuxCNC: <br>
